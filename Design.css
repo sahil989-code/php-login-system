@@ -1,0 +1,17 @@
+.container{
+    background-color: pink;
+    margin: inherit;
+    border: outset;
+}
+.header{
+    text-align:center;
+    color: magenta;
+    text-emphasis-style: "❤️";
+    font-size: xx-large;
+    font-style: oblique;
+}
+.pstyle1{
+    color: blue;
+.pstyle2{
+    color: olive;
+}
